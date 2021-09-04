@@ -7,11 +7,11 @@ First of all, a RandomForestRegression model is trained on the housing prices da
 
 	```
 	* First, __Login Window__, which asks the user to login. (Use 'Usama' as username, and '123' as password, to login)
-	![Login-window](https://github.com/Ali-Usama/House_Value_Predictor_GUI/blob/main/Images/login_window.png)
+
 	* Second, __Input values Window__, which asks the user to input values for different parameters, which can be used for the prediction of a house value.
-	![Input-window](https://github.com/Ali-Usama/House_Value_Predictor_GUI/blob/main/Images/input_values.png)
+
 	* And the last window shows the output _(Predicted value of the house)_.
-	![prediction-window](https://github.com/Ali-Usama/House_Value_Predictor_GUI/blob/main/Images/login_window.png)
+
 	```
 
 ## Dataset Description:
