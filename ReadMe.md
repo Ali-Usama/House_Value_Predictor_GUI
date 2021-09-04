@@ -14,7 +14,7 @@ First of all, a RandomForestRegression model is trained on the housing prices da
 ## Dataset Description:
 The dataset used for this project can be found on this [link](https://github.com/ageron/handson-ml2/tree/master/datasets/housing). Some necessary details are given below:
 
-*
+```
 >>> housing.info()
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 20640 entries, 0 to 20639
@@ -60,7 +60,7 @@ min          2.000000      3.000000      2.000000       0.499900
 50%        433.000000   1164.000000    408.000000       3.541400  
 75%        644.000000   1718.000000    602.000000       4.745000  
 max       6210.000000  35682.000000   5358.000000      15.000100
-*
+```
 
 ## Libraries Used in the Project:
 An already trained RandomForestRegression Model is included in the repository, so you won't have to train the Model again. The libraries that you'll require to run this script on your system include: 
