@@ -6,9 +6,12 @@ This project includes a Random Forest Model, training on housing dataset, which 
 First of all, a RandomForestRegression model is trained on the housing prices dataset, and saved using joblib. This model is then deployed on a GUI which is developed using Tkinter. The GUI includes three windows:
 
 	```
-	* First, __Login Window__, which asks the user to login. _(Use 'Usama' as username, and '123' as password, to login)_
+	* First, __Login Window__, which asks the user to login. (Use 'Usama' as username, and '123' as password, to login)
+	![Login window](./Images/login_window.png)
 	* Second, __Input values Window__, which asks the user to input values for different parameters, which can be used for the prediction of a house value.
+	![Input window](./Images/input_values.png)
 	* And the last window shows the output _(Predicted value of the house)_.
+	![prediction window](./Images/prediction_window.png)
 	```
 
 ## Dataset Description:
